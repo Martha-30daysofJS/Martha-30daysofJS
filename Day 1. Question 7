@@ -1,0 +1,6 @@
+let firstName = 'Martha'
+let Country = 'Nigeria'
+let City = 'Ikeja'
+let Age = 120
+
+console.log(firstName, Country, City, Age)
