@@ -1,0 +1,12 @@
+//comments can make code readable
+
+//welcome to 30 days of Javascript
+
+/*comments can make code readable
+easy to reuse and infornative*/
+
+let countryName = 'Germany'
+let itsAfrica = 'true'
+let capitalCity
+let emptyValue=null
+console.log(countryName, itsAfrica, capitalCity, emptyValue)
